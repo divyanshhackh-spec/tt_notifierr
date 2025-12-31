@@ -1,4 +1,5 @@
-# TT Notifier – Teacher Timetable & Alerts
+# TT Notifier – Teacher Timetable & Alerts 
+# test credentials - admin / 1234
 
 TT Notifier is a Flutter-based timetable and notification system for schools.  
 Teachers get a cyberpunk-themed dashboard showing today’s periods, and the app schedules local notifications before each class. Admins manage timetables via Supabase.
