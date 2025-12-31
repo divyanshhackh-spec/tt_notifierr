@@ -17,6 +17,10 @@ Teachers get a cyberpunk-themed dashboard showing today’s periods, and the app
   - Android
   - Web (Flutter web)
   - iOS (requires macOS + Xcode to build).
+![Login](Screenshot%202025-12-31%20085444.png)
+![Admin Dashboard](Screenshot%202025-12-31%20085505.png)
+![users edit](Screenshot%202025-12-31%20085517.png)
+![Timetable](Screenshot%202025-12-31%20085531.png)
 
 ---
 
