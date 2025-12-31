@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051946065162",
+    "project_id": "tt-notifier-cb002",
+    "storage_bucket": "tt-notifier-cb002.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051946065162:android:9a38c92949f754ac34eef3",
+        "android_client_info": {
+          "package_name": "com.example.tt_notifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOAPkxTlvDjPqQ1A93XlEvh0_Mb66YR4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
